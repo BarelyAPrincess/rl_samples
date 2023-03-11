@@ -1,5 +1,6 @@
 torch
 numpy
 gym[atari]
+gym[accept-rom-license]
 opencv-python
 labml
